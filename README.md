@@ -10,3 +10,6 @@ La empresa de abarrotes doña Julia tiene una lista de productos donde almacena 
 3) Lista de productos con la misma clasificación y precio mayor 15.50
 4) Lista de productos con precio mayor a 20.30 y menor a 45.00
 5) Número de productos agrupados por su clasificación
+
+## Notas
+El archivo main.cpp solo sirve para generar aleatoriamente productos de ejemplo
