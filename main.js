@@ -59,9 +59,9 @@ const archivo = "./productos.js";
 
 procesador = new ProcesadorDeDatos(archivo);
 console.log("\n--------------------------- Reporte 1:\n");
-//procesador.printProductosEnRangoCantidad(21, 99999)
+procesador.printProductosEnRangoCantidad(21, 99999)
 console.log("\n--------------------------- Reporte 2:\n");
-//procesador.printProductosEnRangoCantidad(0, 14);
+procesador.printProductosEnRangoCantidad(0, 14);
 console.log("\n--------------------------- Reporte 3:\n");
 procesador.printPrecioMayorAPorClasificacion(15.5);
 console.log("\n--------------------------- Reporte 4:\n");
